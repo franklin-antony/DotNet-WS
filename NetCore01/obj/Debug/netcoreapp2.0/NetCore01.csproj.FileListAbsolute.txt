@@ -1,0 +1,1 @@
+D:\LearnWS\myLearnWSRepo\DotNetWS\NetCore01\bin\Debug\netcoreapp2.0\NetCore01.dll
