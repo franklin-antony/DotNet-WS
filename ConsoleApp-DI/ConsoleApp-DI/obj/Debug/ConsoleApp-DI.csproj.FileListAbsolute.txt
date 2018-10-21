@@ -1,0 +1,14 @@
+D:\DevelopmentWorkspace\DotNet-WS\ConsoleApp-DI\ConsoleApp-DI\bin\Debug\ConsoleApp-DI.exe.config
+D:\DevelopmentWorkspace\DotNet-WS\ConsoleApp-DI\ConsoleApp-DI\bin\Debug\ConsoleApp-DI.exe
+D:\DevelopmentWorkspace\DotNet-WS\ConsoleApp-DI\ConsoleApp-DI\bin\Debug\ConsoleApp-DI.pdb
+D:\DevelopmentWorkspace\DotNet-WS\ConsoleApp-DI\ConsoleApp-DI\bin\Debug\Autofac.dll
+D:\DevelopmentWorkspace\DotNet-WS\ConsoleApp-DI\ConsoleApp-DI\bin\Debug\Autofac.Extras.DynamicProxy.dll
+D:\DevelopmentWorkspace\DotNet-WS\ConsoleApp-DI\ConsoleApp-DI\bin\Debug\Castle.Core.dll
+D:\DevelopmentWorkspace\DotNet-WS\ConsoleApp-DI\ConsoleApp-DI\bin\Debug\Autofac.xml
+D:\DevelopmentWorkspace\DotNet-WS\ConsoleApp-DI\ConsoleApp-DI\bin\Debug\Autofac.Extras.DynamicProxy.pdb
+D:\DevelopmentWorkspace\DotNet-WS\ConsoleApp-DI\ConsoleApp-DI\bin\Debug\Autofac.Extras.DynamicProxy.xml
+D:\DevelopmentWorkspace\DotNet-WS\ConsoleApp-DI\ConsoleApp-DI\bin\Debug\Castle.Core.xml
+D:\DevelopmentWorkspace\DotNet-WS\ConsoleApp-DI\ConsoleApp-DI\obj\Debug\ConsoleApp-DI.csproj.CoreCompileInputs.cache
+D:\DevelopmentWorkspace\DotNet-WS\ConsoleApp-DI\ConsoleApp-DI\obj\Debug\ConsoleApp-DI.csproj.CopyComplete
+D:\DevelopmentWorkspace\DotNet-WS\ConsoleApp-DI\ConsoleApp-DI\obj\Debug\ConsoleApp-DI.exe
+D:\DevelopmentWorkspace\DotNet-WS\ConsoleApp-DI\ConsoleApp-DI\obj\Debug\ConsoleApp-DI.pdb
